@@ -5,6 +5,8 @@ For this project, the goal is to provide a comprehensive guide on setting up Joh
 If you need help on how to spin a Linux vm in a cloud environment, Please [click here](https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal?tabs=ubuntu)
 
 
+Here are the following steps: 
+
  1. Identify the disk:
 
      First, you need to identify the disk you want to partition. You can use the "sudo fdisk -l" command to list available disks and partitions:
