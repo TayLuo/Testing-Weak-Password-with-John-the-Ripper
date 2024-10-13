@@ -14,20 +14,10 @@ Here are the following steps:
 <p align="center">
 <img src="https://imgur.com/MX69ojf.png" height="80%" width="80%" >
 
- 1. Identify the disk:
-
-     First, you need to identify the disk you want to partition. You can use the "sudo fdisk -l" command to list available disks and partitions:
-     Run the Following Command: sudo fdisk -l
-<p align="center">
-<img src="https://imgur.com/uYSnwkH.png" height="80%" width="80%" >
 
 
- 1. Identify the disk:
 
-     First, you need to identify the disk you want to partition. You can use the "sudo fdisk -l" command to list available disks and partitions:
-     Run the Following Command: sudo fdisk -l
-<p align="center">
-<img src="https://imgur.com/uYSnwkH.png" height="80%" width="80%" >
+ 
 
 
  2. Create a password file for John the Ripper to test on:
