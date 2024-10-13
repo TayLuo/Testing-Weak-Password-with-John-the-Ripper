@@ -30,12 +30,12 @@ Here are the following steps:
 <img src="https://imgur.com/uYSnwkH.png" height="80%" width="80%" >
 
 
- 1. Identify the disk:
+ 2. Create a password file for John the Ripper to test on:
 
-     First, you need to identify the disk you want to partition. You can use the "sudo fdisk -l" command to list available disks and partitions:
-     Run the Following Command: sudo fdisk -l
+    Using "unshadow" command to extract account names and passwords.
+     Run the Following Command: unshadow /etc/passwd /etc/shadow > password.file
 <p align="center">
-<img src="https://imgur.com/uYSnwkH.png" height="80%" width="80%" >
+<img src="https://imgur.com/axb9AUy.png" height="80%" width="80%" >
 
  1. Identify the disk:
 
