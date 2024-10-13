@@ -27,9 +27,13 @@ Here are the following steps:
 <p align="center">
 <img src="https://imgur.com/axb9AUy.png" height="80%" width="80%" >
 
- 1. Identify the disk:
 
-     First, you need to identify the disk you want to partition. You can use the "sudo fdisk -l" command to list available disks and partitions:
-     Run the Following Command: sudo fdisk -l
+
+ 3. Test the strength of the password:
+
+     Now let's test the strength of the password by: john password.file
+
+    You'll see the account "mom" with a weakpassword "1234"
+     
 <p align="center">
-<img src="https://imgur.com/uYSnwkH.png" height="80%" width="80%" >
+<img src="https://imgur.com/B2ucuCP.png" height="80%" width="80%" >
