@@ -31,9 +31,18 @@ Here are the following steps:
 
  3. Test the strength of the password:
 
-     Now let's test the strength of the password by: john password.file
+     Now let's test the strength of the password by: sudo john password.file
 
     You'll see the account "mom" with a weakpassword "1234"
      
 <p align="center">
 <img src="https://imgur.com/B2ucuCP.png" height="80%" width="80%" >
+
+ 4. Change a weak password to a strong one:
+
+    Using "sudo passwd mom" to create a strong password.
+    Then, try to crack the password again, but there is no luck this time.
+    
+     
+<p align="center">
+<img src="https://imgur.com/JMx3tVS.png" height="80%" width="80%" >
