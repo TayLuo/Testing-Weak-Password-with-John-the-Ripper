@@ -1,1 +1,3 @@
 # Testing-Weak-Password-with-John-the-Ripper
+
+For this project, the goal is to provide a comprehensive guide on setting up John the Ripper on an Ubuntu machine in Azure. The guide will walk users through the installation process, demonstrate how to test weak passwords for vulnerabilities, and highlight the importance of implementing strong password policies. This project is aimed at enhancing both the security knowledge of the audience and their technical proficiency in using John the Ripper as a password-cracking tool. Additionally, the project will emphasize proactive password management practices to help users secure their systems against brute-force attacks.
