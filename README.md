@@ -12,7 +12,7 @@ Here are the following steps:
  
      Run the Following Command:
 
-  	   sudo apt-get install john -y
+  	    sudo apt-get install john -y
     
 <p align="center">
 <img src="https://imgur.com/MX69ojf.png" height="80%" width="80%" >
