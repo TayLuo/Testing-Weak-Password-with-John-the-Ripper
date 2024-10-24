@@ -11,6 +11,7 @@ Here are the following steps:
 
  
      Run the Following Command:
+
   	  sudo apt-get install john -y
 <p align="center">
 <img src="https://imgur.com/MX69ojf.png" height="80%" width="80%" >
@@ -25,6 +26,7 @@ Here are the following steps:
 
     Using "unshadow" command to extract account names and passwords.
      Run the Following Command:
+    
     		unshadow /etc/passwd /etc/shadow > password.file
 <p align="center">
 <img src="https://imgur.com/axb9AUy.png" height="80%" width="80%" >
@@ -34,6 +36,7 @@ Here are the following steps:
  3. Test the strength of the password:
 
      Now let's test the strength of the password by:
+
     		sudo john password.file
 
     You'll see the account "mom" with a weakpassword "1234"
